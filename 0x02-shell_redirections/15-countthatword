@@ -1,2 +1,2 @@
 #!/bin/bash 16-whatsnext
-cat root | grep "root" | wc -l
+cat /etc/passwd | grep "root" | wc -l
