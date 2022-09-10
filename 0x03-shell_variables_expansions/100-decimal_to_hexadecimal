@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo "(print %xn $DECIMAL)"
+echo "printf '%xn' $DECIMAL"
